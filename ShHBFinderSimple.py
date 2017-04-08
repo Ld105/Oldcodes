@@ -19,7 +19,7 @@ api = shodan.shodan(key)
 
      def results           
           try:
-        results = api.search(vuln:cve-2014-0160 )
+        results = api.search(vuln:cve-2014-0160)
 		api.streams.ports([443, 8443])
  
 print ' U found some vuln sites but u not found a social life '
