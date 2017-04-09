@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 
-#Hearthbleed Finder Simple-Simplezao mesmo Beta 1.0
+#Hearthbleed Finder Simple-Simplezao
 #By Ld105
 #Salve pro v0ldin-yunkers-tio uli
 #Achem suas Keys de API no site da shodan
+#https://account.shodan.io/login
+
+
 
 import sys
 import re
